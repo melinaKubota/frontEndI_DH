@@ -5,15 +5,14 @@ body{
     text-align: center;
 }
 
-
 .cabecalho{
     background-color: black;
     color: white;
     display: block;
     position: sticky; 
     top:10px;
-    
 }
+
 .cabecalho p{
     display: inline;
     padding: 10%;
